@@ -23,3 +23,9 @@ Esse entregável é composto por dois algorítmos que usam dados do comportament
 - Uma IA(deeplearning) para Prever a possibilidade de OBTENÇÃO DE CRÉDITO (dataset=credito.csv)
 - Uma IA(deeplearning) para Prever a possibilidade de OBTENÇÃO DE EMPRÉSTIMO (dataset=emprestimo.csv)
 
+A accurácia das redes são baixas, pois o objetivo foi mostrar a implemetação com os dados fictícios do open banking + os obtidos na web.
+
+Na linha de execução de cada algorítmo é possivel ver os prints das redes sendo executadas, os prints de duas simulações com diferentes perfis de clientes, algumas tecnicas de aprimoramenot da rede é uma matriz confusão que são métricas para melhorias das IA's.
+
+ASSIM APRESENTAMOS CÓDIGOS "SIMPES" PORÉM COMPLETOS E EXECUTADOS TECNICAMENTE PARA A IMPLEMENTAÇÃO DA IA QUE DEFINE OS PERFIS DOS NOSSOS CLIENTES!
+
