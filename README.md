@@ -3,6 +3,7 @@
 
 #BIBLIOTECAS:       
 tensor==0.3.6
+
 tensorboard==1.9.0
 tensorflow==1.9.0
 tensorflow-estimator==2.0.1
@@ -14,3 +15,4 @@ Keras==2.0.0
 Keras-Applications==1.0.8
 Keras-Preprocessing==1.1.0
 seaborn==0.10.1
+
