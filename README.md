@@ -19,6 +19,7 @@ seaborn==0.10.1/
 
 #DESCRIÇÃO:
 
-Esse entregável é composto por dois algorítmos que usam dados do comportamento financeiro do cliente (dados da API disponibilizada do open banking):
-- Uma IA(deeplearning) para Prever a possibilidade de OBTENÇÃO DE CRÉDITO 
-Uma IA(deeplearning) para Prever a possibilidade de OBTENÇÃO DE EMPRÉSTIMO
+Esse entregável é composto por dois algorítmos que usam dados do comportamento financeiro do cliente (dados da API disponibilizada do open banking e agregrando dados já utilizados atualmente no mercado, para reforçar ainda mais o aprendizado da IA):
+- Uma IA(deeplearning) para Prever a possibilidade de OBTENÇÃO DE CRÉDITO (dataset=credito.csv)
+- Uma IA(deeplearning) para Prever a possibilidade de OBTENÇÃO DE EMPRÉSTIMO (dataset=emprestimo.csv)
+
